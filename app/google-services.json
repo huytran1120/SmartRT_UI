@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322082806956",
+    "project_id": "smartrt-f5d6a",
+    "storage_bucket": "smartrt-f5d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322082806956:android:0e83a6c86f4ff201331309",
+        "android_client_info": {
+          "package_name": "com.example.smartrt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322082806956-6134jugk0442q3asg8hocs7ug0c4s4uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpWFFy9A1n3ZAaYq-0j8D6S9vx0Gmq3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322082806956-6134jugk0442q3asg8hocs7ug0c4s4uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
